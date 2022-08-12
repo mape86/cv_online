@@ -1,11 +1,11 @@
 html,
 body {
-  background-color: bisque;
+  background-color: gray;
 }
 
 #profile-pic {
   width: 200px;
-  border-radius: 100%;
+  border-radius: 40%;
 }
 
 table {
