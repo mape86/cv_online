@@ -1,0 +1,11 @@
+/*PICTURE STYLE SECTION*/
+
+#profile-pic {
+  width: 200px;
+  border-radius: 100%;
+}
+
+table {
+  border-collapse: separate;
+  border-spacing: 20px 4px;
+}
