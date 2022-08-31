@@ -1,6 +1,6 @@
 html,
 body {
-  background-color: #B0E0E6;
+  background-color: #EAF6F6;
 }
 
 hr{
@@ -8,6 +8,14 @@ hr{
   border-width: 5px;
   border-color: grey;
   width: 5%;
+}
+
+h1 {
+  color: #008B8B;
+}
+
+h3{
+  color: #66BFBF;
 }
 
 #profile-pic {
